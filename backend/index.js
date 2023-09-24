@@ -18,14 +18,12 @@ let products = [
     price: 145000000,
     imageUrl:
       'https://dkstatics-public.digikala.com/digikala-products/3a6f118edd9a654d427ad4c022cd6cb6d54f18e2_1671293430.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90',
-    available: false,
   },
   {
     id: '2',
     title: 'Alienware X17',
     price: 200000000,
     imageUrl: 'https://cdnfa.com/powerbank360/2cdc/files/3874613.jpg',
-    available: true,
   },
   {
     id: '3',
@@ -33,7 +31,6 @@ let products = [
     price: 88000000,
     imageUrl:
       'https://dkstatics-public.digikala.com/digikala-products/20cc22642b109659942c2a8d783f25d2ac23500d_1675840446.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90',
-    available: true,
   },
 ];
 
