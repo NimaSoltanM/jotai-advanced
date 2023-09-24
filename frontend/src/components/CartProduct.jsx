@@ -6,7 +6,7 @@ export default function CartProduct({ product }) {
     <div className='product' key={product.id}>
       <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
         <img src={product.imageUrl} alt='' />
-        <button className='remove'>remove</button>
+        <button className='remove'>حذف</button>
       </div>
 
       <div
